@@ -54,7 +54,7 @@
     crossorigin=""/>
 
 <style>
-    #mapid { height: 300px; }
+    #mapid { height: 400px; }
 </style>
 @endsection
 

@@ -1,3 +1,3 @@
-{{-- <footer class="text-center fixed-bottom mb-2">
-    The source code of this project is available on <a href="https://github.com/nafiesl/laravel-leaflet-example" target="_blank">github</a>.
-</footer> --}}
+<footer class="text-center fixed-bottom mb-2">
+    <a href="https://www.diresajunin.gob.pe" target="_blank">Direccion Regional de Salud Junin</a>. - 2020 
+</footer>
